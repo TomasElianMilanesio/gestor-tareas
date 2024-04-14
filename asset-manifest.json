@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gestor-tareas/static/css/main.1f97d9cd.css",
+    "main.js": "/gestor-tareas/static/js/main.9a550b0e.js",
+    "static/media/logo-tareas.png": "/gestor-tareas/static/media/logo-tareas.4bf47121f9ccb21b4f87.png",
+    "index.html": "/gestor-tareas/index.html",
+    "main.1f97d9cd.css.map": "/gestor-tareas/static/css/main.1f97d9cd.css.map",
+    "main.9a550b0e.js.map": "/gestor-tareas/static/js/main.9a550b0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f97d9cd.css",
+    "static/js/main.9a550b0e.js"
+  ]
+}
